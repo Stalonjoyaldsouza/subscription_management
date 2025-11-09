@@ -13,6 +13,11 @@
   "dependencies": {
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
+<<<<<<< HEAD
+=======
+    "mongodb": "^6.20.0",
+    "mongoose": "^8.19.3",
+>>>>>>> 14d4554 (model,middleware,routes and database is added)
     "router": "^2.2.0"
   }
 }

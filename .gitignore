@@ -5,6 +5,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 14d4554 (model,middleware,routes and database is added)
 # Runtime data
 pids
 *.pid
